@@ -12,15 +12,12 @@
   
   body {
    background-color: #333;
-
   }
 
   .background {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    /* -webkit-filter: blur(5px); */
-    /* filter: blur(5px); */
   }
   
   html {
@@ -304,7 +301,7 @@
   outline: none;
   -webkit-transition: 0.2s;
   transition: opacity 0.2s;
-  /* transform: rotate(180deg); */
+
 }
 
 .playback-slidebar::-webkit-slider-thumb {
