@@ -11,29 +11,9 @@
     10. Play song when click
     ------------------------- Improve--------------------------------
     11. Nút volume / muted / playbackRate (additional)   DONE 3 FUNCTION
-        I. volume with thoes function:
-            a. if volume = 0 => volume-slash 
-            b. if volume > 0 =< 20   => volume-low
-            c. if volume > 20 =< 70  => volume-average-medium
-            d. if volume > 70 =< 100  => volume-high
-        II. volume with hover and show slide volume from 0 to 100 - DONE
-        III. when click is mute => volume 0 and click again make volume return to previous value - DONE
-        IV. Register local storage value and return like suffle and repeat button - NOT AVAILBLE
-        V. Make playbackRate with thoes function: - DONE
-            a. click PBR and show small menu to chose with 5 option
-                1. 0.25x 
-                2. 0.5x
-                3. 0.75x
-                4. normal = 1x
-                5. 1.25x
-                6. 1.5x
-                7. 1.75
-                8. 2x
     12. Thumbnail background match with currentsong - done but not blur
     13. small navigation in bottom with control - NOT COMPATIBILE WITH MINI PLAYER
     14. Home page (nice for demo) - NOT COMPATIBILE WITH MINI PLAYER
-    --------------------------EXPERT ---------------------------------
-    16. GET API SOUNDCLOUD OR SPOTIFY AND LOAD REAL SONG THEN PLAY
 */
 
 // khởi tạo các thành phần cần thiết từ trong DOM 
