@@ -18,7 +18,7 @@
             d. if volume > 70 =< 100  => volume-high
         II. volume with hover and show slide volume from 0 to 100 - DONE
         III. when click is mute => volume 0 and click again make volume return to previous value - DONE
-        IV. Register local storage value and return like suffle and repeat button - Too comlicated - NOT AVAILBLE
+        IV. Register local storage value and return like suffle and repeat button - NOT AVAILBLE
         V. Make playbackRate with thoes function: - DONE
             a. click PBR and show small menu to chose with 5 option
                 1. 0.25x 
