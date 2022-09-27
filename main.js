@@ -61,70 +61,70 @@ const app = {
     songs: [ {
         name: 'Funknitium',
         singer: 'Fear of Dark',
-        path: './mp3/Funknitium-99.mp3',
-        image: './img/motoway-fod.png'
+        path: 'assets/mp3/Funknitium-99.mp3',
+        image: 'assets/img/motoway-fod.png' 
     },
     {
         name: 'Fast City',
         singer: 'Fear of Dark',
-        path: './mp3/Fast-City.mp3',
-        image: './img/motoway-fod-1.webp'
+        path: 'assets/mp3/Fast-City.mp3',
+        image: 'assets/img/motoway-fod-1.webp'
 
     },
     {
         name: 'Polaris',
         singer: 'Fear of Dark',
-        path: './mp3/Polaris.mp3',
-        image: './img/motoway-fod-2.jpg'
+        path: 'assets/mp3/Polaris.mp3',
+        image: 'assets/img/motoway-fod-2.jpg'
 
     },
     {
         name: 'Motorway',
         singer: 'Fear of Dark',
-        path: './mp3/Motorway.mp3',
-        image: './img/motoway-fod-3.jpg'
+        path: 'assets/mp3/Motorway.mp3',
+        image: 'assets/img/motoway-fod-3.jpg'
 
     },
     {
         name: 'Zeta Function',
         singer: 'Fear of Dark',
-        path: './mp3/Zeta-Function.mp3',
-        image: './img/motoway-fod-4.jpg'
+        path: 'assets/mp3/Zeta-Function.mp3',
+        image: 'assets/img/motoway-fod-4.jpg'
 
     },
     {
         name: 'Tà Lân Nhạc Tẩm Đá',
         singer: 'Khá Bảnh',
-        path: './mp3/Khá-Bảnh.mp3',
-        image: './img/kha_banh.gif'
+        path: 'assets/mp3/Khá-Bảnh.mp3',
+        image: 'assets/img/kha_banh.gif'
 
     },
     {
         name: 'Zeta Function',
         singer: 'Fear of Dark',
-        path: './mp3/Zeta-Function.mp3',
-        image: './img/motoway-fod-4.jpg'
+        path: 'assets/mp3/Zeta-Function.mp3',
+        image: 'assets/img/motoway-fod-4.jpg'
 
     },
     {
         name: 'Zeta Function',
         singer: 'Fear of Dark',
-        path: './mp3/Zeta-Function.mp3',
-        image: './img/motoway-fod-4.jpg'
+        path: 'assets/mp3/Zeta-Function.mp3',
+        image: 'assets/img/motoway-fod-4.jpg'
 
     },
     {
         name: 'Zeta Function',
         singer: 'Fear of Dark',
-        path: './mp3/Zeta-Function.mp3',
-        image: './img/motoway-fod-4.jpg'
+        path: 'assets/mp3/Zeta-Function.mp3',
+        image: 'assets/img/motoway-fod-4.jpg'
 
     },
     {
         name: 'Zeta Function',
         singer: 'Fear of Dark',
-        path: './mp3/Zeta-Function.mp3',
-        image: './img/motoway-fod-4.jpg'
+        path: 'assets/mp3/Zeta-Function.mp3',
+        image: 'assets/img/motoway-fod-4.jpg'
 
     },
     
