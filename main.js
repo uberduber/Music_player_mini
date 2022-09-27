@@ -59,75 +59,39 @@ const app = {
     config: JSON.parse(localStorage.getItem(PLAYER_STORAGE_KEY)) || {},
     // Danh sách playlis với chuỗi string (có thể thay thế api thực vào sau này nhưng sẽ fix code lại)
     songs: [ {
-        name: 'Funknitium',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Funknitium-99.mp3',
-        image: 'assets/img/motoway-fod.png' 
+        name: 'Cứu Vãn Kịp Không',
+        singer: 'Vương Anh Tú',
+        path: 'assets/mp3/cvkk.mp3',
+        image: 'assets/img/cvkk.jpg' 
     },
     {
-        name: 'Fast City',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Fast-City.mp3',
-        image: 'assets/img/motoway-fod-1.webp'
+        name: 'Em Lấy Chồng',
+        singer: 'Khắc Việt, ACV',
+        path: 'assets/mp3/elc.mp3',
+        image: 'assets/img/elc.jpg'
 
     },
     {
-        name: 'Polaris',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Polaris.mp3',
-        image: 'assets/img/motoway-fod-2.jpg'
+        name: 'Một Ngàn Nỗi Đau',
+        singer: 'Văn Mai Hương',
+        path: 'assets/mp3/mnnd.mp3',
+        image: 'assets/img/mnnd.jpg'
 
     },
     {
-        name: 'Motorway',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Motorway.mp3',
-        image: 'assets/img/motoway-fod-3.jpg'
+        name: 'Pháo Hồng',
+        singer: 'Đạt Long Vinh',
+        path: 'assets/mp3/ph.mp3',
+        image: 'assets/img/ph.jfif'
 
     },
     {
-        name: 'Zeta Function',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Zeta-Function.mp3',
-        image: 'assets/img/motoway-fod-4.jpg'
+        name: 'Vì Mẹ Anh Bắt Chia Tay',
+        singer: 'Miu Lê, Karik, Châu Đăng Khoa',
+        path: 'assets/mp3/vmabct.mp3',
+        image: 'assets/img/vmabct.jpg'
 
-    },
-    {
-        name: 'Tà Lân Nhạc Tẩm Đá',
-        singer: 'Khá Bảnh',
-        path: 'assets/mp3/Khá-Bảnh.mp3',
-        image: 'assets/img/kha_banh.gif'
-
-    },
-    {
-        name: 'Zeta Function',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Zeta-Function.mp3',
-        image: 'assets/img/motoway-fod-4.jpg'
-
-    },
-    {
-        name: 'Zeta Function',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Zeta-Function.mp3',
-        image: 'assets/img/motoway-fod-4.jpg'
-
-    },
-    {
-        name: 'Zeta Function',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Zeta-Function.mp3',
-        image: 'assets/img/motoway-fod-4.jpg'
-
-    },
-    {
-        name: 'Zeta Function',
-        singer: 'Fear of Dark',
-        path: 'assets/mp3/Zeta-Function.mp3',
-        image: 'assets/img/motoway-fod-4.jpg'
-
-    },
-    
+    }, 
     ],
     setConfig: function(key, value){
        this.config[key] = value;
